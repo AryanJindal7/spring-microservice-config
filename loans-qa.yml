@@ -1,0 +1,8 @@
+build:
+  version: 1.QA
+
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
