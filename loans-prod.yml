@@ -1,6 +1,13 @@
 build:
   version: 1.PROD
-
+accounts:
+  message: "Welcome to EZ acc related webhook PROD APIs "
+  contactDetails:
+    name: "Smitha Ray - Prod Lead"
+    email: "smitha@ez.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
 spring:
   config:
     activate:
