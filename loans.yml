@@ -23,4 +23,4 @@ spring:
       - "loans_prod.yml"
   profile:
     active:
-#      - "qa"
+     - "prod"
